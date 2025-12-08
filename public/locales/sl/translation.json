@@ -166,7 +166,7 @@
     "goBack": "Pojdi nazaj",
     "language": "Jezik",
     "forms": {
-        "supportedImageFormats": "Podprte so samo datoteke JPEG, PNG in WEBP, manjše od 20 MB",
+        "supportedImageFormats": "Podprte so samo datoteke JPEG, PNG, WEBP in AVIF, manjše od 20 MB",
         "enterNumber": "Prosim vnesite veljavno številko",
         "enterInteger": "Prosim, vnesite celo število (brez decimalk)",
         "valueTooShort": "Vrednost je prekratka",

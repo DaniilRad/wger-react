@@ -166,7 +166,7 @@
     "goBack": "Voltar atrás",
     "language": "Idioma",
     "forms": {
-        "supportedImageFormats": "Só são suportados ficheiros JPEG, PNG e WEBP abaixo dos 20MB",
+        "supportedImageFormats": "Só são suportados ficheiros JPEG, PNG, WEBP e AVIF abaixo dos 20MB",
         "enterNumber": "Insere um número válido",
         "enterInteger": "Insere um número inteiro",
         "valueTooShort": "O valor é muito curto",

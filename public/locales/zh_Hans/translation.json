@@ -188,7 +188,7 @@
     "filters": "过滤器",
     "downloadAsPdf": "下载 PDF 格式",
     "forms": {
-        "supportedImageFormats": "仅支持20MB以下的 JPEG、PNG及WEBP文件",
+        "supportedImageFormats": "仅支持20MB以下的 JPEG、PNG、 WEBP及AVIF文件",
         "valueTooShort": "此项过短",
         "valueTooLong": "此项过长",
         "fieldRequired": "此项必填",

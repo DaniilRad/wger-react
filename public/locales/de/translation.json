@@ -120,7 +120,7 @@
     "goBack": "Zurück",
     "language": "Sprache",
     "forms": {
-        "supportedImageFormats": "Es werden nur JPEG-, PNG- und WEBP-Dateien unter 20Mb unterstützt",
+        "supportedImageFormats": "Es werden nur JPEG-, PNG-, WEBP- und AVIF-Dateien unter 20Mb unterstützt",
         "valueTooShort": "Der Wert ist zu gering",
         "valueTooLong": "Der Wert ist zu groß",
         "fieldRequired": "Pflichtfeld",

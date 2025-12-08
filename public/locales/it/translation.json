@@ -188,7 +188,7 @@
         "valueTooLong": "Il valore è troppo lungo",
         "fieldRequired": "Questo campo è richiesto",
         "minLength": "Per favore inserisci più di {{chars}} caratteri",
-        "supportedImageFormats": "Sono supportati solo file JPEG, PNG e WEBP al di sotto dei 20Mb",
+        "supportedImageFormats": "Sono supportati solo file JPEG, PNG, WEBP e AVIF al di sotto dei 20Mb",
         "valueTooShort": "Il valore è troppo corto",
         "maxLength": "Per favore inserisci meno di {{chars}} caratteri",
         "maxValue": "Il valore di questo campo deve essere minore di {{value}}",

@@ -117,7 +117,7 @@
     "goBack": "Retour",
     "language": "Langues",
     "forms": {
-        "supportedImageFormats": "Seuls les fichiers JPEG, PNG et WEBP de moins de 20 Mo sont pris en charge",
+        "supportedImageFormats": "Seuls les fichiers JPEG, PNG, WEBP et AVIF de moins de 20 Mo sont pris en charge",
         "valueTooShort": "La valeur est trop courte",
         "fieldRequired": "Le champ est requis",
         "valueTooLong": "La valeur est trop longue",
@@ -141,7 +141,7 @@
     "translation": "Traduction",
     "description": "Description",
     "images": "Photos",
-    "overview": "Vue d'ensemble",
+    "overview": "Aperçu",
     "routines": {
         "addDay": "Ajouter un jour d'entraînement",
         "addWeightLog": "Ajouter un historique de poids",
@@ -218,8 +218,8 @@
             "normalSet": "Série normale",
             "dropSet": "Série dégressive",
             "myo": "MYO",
-            "tut": "TUT",
-            "iso": "ISO",
+            "tut": "Temps sous tension",
+            "iso": "Maintien isométrique",
             "jump": "Saut",
             "partial": "Partielle",
             "forced": "Forcée"
@@ -227,7 +227,17 @@
         "publicTemplateHelpText": "Les modèles publics sont disponibles pour tous les utilisateurs.",
         "workoutSession": "Séance d'entraînement",
         "copyAndUseTemplate": "Copier et utiliser le modèle",
-        "roundingHelp": "Définissez l'arrondi par défaut pour le poids et les répétitions (particulièrement utile lors de l'utilisation de l'incrémentation en pourcentage dans la progression). Ce paramètre s'applique à toutes les nouvelles séries, mais peut être modifié individuellement dans le formulaire de progression. Laissez vide pour désactiver l'arrondi."
+        "roundingHelp": "Définissez l'arrondi par défaut pour le poids et les répétitions (particulièrement utile lors de l'utilisation de l'incrémentation en pourcentage dans la progression). Ce paramètre s'applique à toutes les nouvelles séries, mais peut être modifié individuellement dans le formulaire de progression. Laissez vide pour désactiver l'arrondi.",
+        "day": {
+            "custom": "Personnalisé",
+            "enom": "Enom",
+            "amrap": "Autant de tours que possible",
+            "hiit": "Entraînement par intervalles à haute intensité",
+            "tabata": "Tabata",
+            "edt": "Entraînement à densité croissante",
+            "rft": "Rounds for time",
+            "afap": "Aussi vite que possible"
+        }
     },
     "value": "Valeur",
     "deleteConfirmation": "Êtes-vous certain de vouloir supprimer \"{{name}}\" ?",
@@ -335,5 +345,7 @@
         "result": "Votre BMI est {{value}}"
     },
     "editName": "Editer {{name}}",
-    "comment": "Commentaire"
+    "comment": "Commentaire",
+    "private": "privée",
+    "public": "publique"
 }
